@@ -1,4 +1,4 @@
-import Casestudie from '@/components/case-studies/casestudie'
+import Casestudie from '@/components/case-studies/Casestudie'
 import React from 'react'
 
 function Casestudies() {
