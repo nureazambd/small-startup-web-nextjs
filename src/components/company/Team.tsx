@@ -1,3 +1,5 @@
+"use client"
+
 import React from 'react'
 
 export default function Team() {
@@ -23,7 +25,7 @@ export default function Team() {
                                 <div className="px-6 mt-16">
                                     <div className="font-bold text-3xl text-center pb-1">Andres Berlin</div>
                                     <p className="text-gray-800 text-sm text-center">Chief Executive Officer</p>
-                                    <p className="text-center text-gray-600 text-base pt-3 font-normal">The CEO's role in raising a company's corporate IQ is to establish an atmosphere that promotes knowledge sharing and collaboration.</p>
+                                    <p className="text-center text-gray-600 text-base pt-3 font-normal">The CEOs role in raising a companys corporate IQ is to establish an atmosphere that promotes knowledge sharing and collaboration.</p>
                                     <div className="w-full flex justify-center pt-5 pb-5">
                                         <a href="javascript:void(0)" className="mx-5">
                                             <div>
@@ -218,7 +220,7 @@ export default function Team() {
                                 <div className="px-6 mt-16">
                                     <div className="font-bold text-3xl text-center pb-1">Charles Keith</div>
                                     <p className="text-gray-800 text-sm text-center">UX Designer</p>
-                                    <p className="text-center text-gray-600 text-base pt-3 font-normal">A UX designer is the voice of the customer. Our job is to look beyond the business goals. We don't just experience user interface but also questions it.</p>
+                                    <p className="text-center text-gray-600 text-base pt-3 font-normal">A UX designer is the voice of the customer. Our job is to look beyond the business goals. We do not just experience user interface but also questions it.</p>
                                     <div className="w-full flex justify-center pt-5 pb-5">
                                         <a href="javascript:void(0)" className="mx-5">
                                             <div>
