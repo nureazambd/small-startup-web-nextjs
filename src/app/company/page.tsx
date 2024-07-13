@@ -1,8 +1,13 @@
+import CompanyAbout from '@/components/company/CompanyAbout'
+import Team from '@/components/company/Team'
 import React from 'react'
 
 function Company() {
   return (
-    <div>Company page</div>
+    <div>
+      <CompanyAbout/>
+      <Team/>
+    </div>
   )
 }
 
